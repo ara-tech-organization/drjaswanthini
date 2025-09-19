@@ -44,7 +44,7 @@ const Footer = () => {
         <div className={styles.footerContact}>
           <h3>Contact</h3>
           <p>
-            <EnvironmentOutlined /> Chennai, Tamil Nadu, India
+            <EnvironmentOutlined /> No 595/628, Service road, fire station,<br /> Thiruvottiyur High Rd, opposite to Tondiarpet,<br /> Korukkupet, Washermanpet, Chennai, Tamil Nadu 600021
           </p>
           <p>
             <PhoneOutlined /> +91 96294 64529

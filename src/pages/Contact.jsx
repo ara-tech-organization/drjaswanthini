@@ -7,6 +7,7 @@ import BookAppointment from '../components/contact/BookAppointment';
 import ContactCards from '../components/contact/ContactCards';
 import ConsultationInfo from '../components/contact/ConsultationInfo';
 import Appointment from '../components/services/Appointment';
+import OfficeLocation from '../components/contact/MapLocation';
 
 const Contact = () => {
   return (
@@ -37,6 +38,7 @@ const Contact = () => {
       <ContactCards />
       <Appointment />
       <ConsultationInfo />
+      <OfficeLocation/>
       <Footer />
       <Copyrights />
       </HelmetProvider>

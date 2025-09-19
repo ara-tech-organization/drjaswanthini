@@ -41,7 +41,7 @@ const Contact = () => {
             <div>
               <p className={styles.label}>Office</p>
               <p className={styles.info}>
-                Institute of Child Health & Hospital for Children, MMC, Chennai
+                No 595/628, Service road, fire station, Thiruvottiyur High Rd, opposite to Tondiarpet, Korukkupet, Washermanpet, Chennai, Tamil Nadu 600021
               </p>
             </div>
           </div>
@@ -69,7 +69,7 @@ const Contact = () => {
 
         <div className={styles.mapEmbed}>
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.4051556643794!2d80.25435417484329!3d13.073489537251314!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52660cff28b88f%3A0x3f0028e54b91f1ba!2sInstitute%20Of%20Child%20Health%20and%20Hospital%20for%20Children!5e0!3m2!1sen!2sin!4v1748931762864!5m2!1sen!2sin"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3885.6305036927133!2d80.284204275079!3d13.122578287206897!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a526f6f3137d605%3A0x1442a2b36487d972!2sJG%20HEART%20%26%20HAEMATOLOGY%20CENTRE!5e0!3m2!1sen!2sin!4v1758273093568!5m2!1sen!2sin"
             allowfullscreen=""
             loading="lazy"
           ></iframe>

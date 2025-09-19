@@ -11,7 +11,7 @@ const ContactCards = () => {
         </h3>
         <p>
           <a
-            href="https://wa.me/919840536186"
+            href="https://wa.me/919629464529"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -26,7 +26,7 @@ const ContactCards = () => {
         </h3>
         <p>
           <a
-            href="tel:+919840536186"
+            href="tel:+919629464529"
             style={{ color: "inherit", textDecoration: "none" }}
           >
             +91 96294 64529
