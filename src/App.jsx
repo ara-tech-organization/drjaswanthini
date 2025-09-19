@@ -28,7 +28,7 @@ function App() {
 
       {/* WhatsApp Icon */}
       <a
-       href="https://wa.me/919840536186"
+       href="https://wa.me/919629464529"
         target="_blank"
         rel="noopener noreferrer"
         style={{
