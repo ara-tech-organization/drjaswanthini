@@ -15,20 +15,33 @@ const Home = () => {
   return (
     <HelmetProvider>
       <Helmet>
-  <title>Best Hospital for Hematology in Chennai | Dr. Jaswanthini</title>
-  <meta
-    name="description"
-    content="Dr. Jaswanthini – Leading hematologist in Chennai, offering advanced blood disease diagnosis and treatment. Best hospital for hematology care in Chennai."
-  />
-  <meta name="keywords" content="hematology hospital Chennai, best hematologist Chennai, blood disorder treatment Chennai" />
-  {/* <!-- OG tags for sharing --> */}
-  <meta property="og:title" content="Best Hospital for Hematology in Chennai – Dr. Jaswanthini" />
-  <meta property="og:description" content="Trust Dr. Jaswanthini for expert hematology treatments — leukemia, anemia, clotting disorders, and more." />
-  <meta property="og:url" content="https://drjaswanthini.com/" />
-  <meta property="og:image" content="https://drjaswanthini.com/og-dr_jaswanithini.jpg" />
-  <link rel="canonical" href="https://drjaswanthini.com/" />
-</Helmet>
-
+        <title>
+          Comprehensive Hematology Care in Chennai – Dr. Jaswanthini
+        </title>
+        <meta
+          name="description"
+          content="From leukemia to rare blood disorders, Dr. Jaswanthini combines medical expertise with compassionate care. Experience trusted, personalized treatment for a healthier tomorrow."
+        />
+        <meta
+          name="keywords"
+          content="hematology hospital Chennai, best hematologist Chennai, blood disorder treatment Chennai"
+        />
+        {/* <!-- OG tags for sharing --> */}
+        <meta
+          property="og:title"
+          content="Best Hospital for Hematology in Chennai – Dr. Jaswanthini"
+        />
+        <meta
+          property="og:description"
+          content="From leukemia to rare blood disorders, Dr. Jaswanthini combines medical expertise with compassionate care. Experience trusted, personalized treatment for a healthier tomorrow."
+        />
+        <meta property="og:url" content="https://drjaswanthini.com/" />
+        <meta
+          property="og:image"
+          content="https://drjaswanthini.com/og-dr_jaswanithini.jpg"
+        />
+        <link rel="canonical" href="https://drjaswanthini.com/" />
+      </Helmet>
 
       <Header />
       <Hero />
